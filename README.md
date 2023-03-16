@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **Mentors**
 
-- 🤝 I’m looking for help with [/](/)
+- 🤝 I’m looking for **Internship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilosPetrovic-programmer](https://github.com/MilosPetrovic-programmer)
 
