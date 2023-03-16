@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mimiizoki@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/milos-petrovic-311985255/](https://www.linkedin.com/in/milos-petrovic-311985255/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/milos-petrovic-programmer/](https://www.linkedin.com/in/milos-petrovic-programmer/)
 
 - ⚡ Fun fact **I play a guitar**
 
