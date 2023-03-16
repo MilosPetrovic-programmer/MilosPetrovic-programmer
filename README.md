@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilosPetrovic-programmer](https://github.com/MilosPetrovic-programmer)
 
-- 📝 I regularly write articles on [/](/)
-
 - 💬 Ask me about **HTML,CSS & Python**
 
 - 📫 How to reach me **mimiizoki@gmail.com**
