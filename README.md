@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [new project ideas](/)
+- 👯 I’m looking to collaborate with (Mentors)
 
 - 🤝 I’m looking for help with [/](/)
 
