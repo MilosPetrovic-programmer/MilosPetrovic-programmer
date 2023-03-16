@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [/](/)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **HTML,CSS & Python**
 
 - 📫 How to reach me **mimiizoki@gmail.com**
 
