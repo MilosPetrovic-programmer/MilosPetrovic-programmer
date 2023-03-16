@@ -1,4 +1,4 @@
-![MasterHead](https://eternalhost.net/wp-content/uploads/2022/08/Bezymyannyj-1-850x280.png)
+![MasterHead](https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp)
 <h1 align="center">Hi 👋, I'm Milos</h1>
 <h3 align="center">A passionate programmer from Serbia</h3>
 
