@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/milos-petrovic-programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milos-petrovic-311985255/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/milos.petrovic.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milos petrovic" height="30" width="40" /></a>
-<a href="https://instagram.com/milos_019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milos_019" height="30" width="40" /></a>
+<a href="https://www.instagram.com/milos_019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milos_019" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
