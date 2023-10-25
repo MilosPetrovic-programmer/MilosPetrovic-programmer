@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milos</h1>
 <h3 align="center">A passionate programmer from Serbia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.rs/search?q=coding&sca_esv=576472481&tbm=isch&sxsrf=AM9HkKkigTgd17PM1icjYxPKkbm2XXi8nQ:1698232353118&source=lnms&sa=X&ved=2ahUKEwjf6ZzBiJGCAxVr_7sIHVuHBQ4Q_AUoAXoECAEQAw&biw=1536&bih=726&dpr=1.25#imgrc=TGd_PgtwcJpJsM">
+<img align="right" alt="Coding" width="400" src="https://www.google.rs/search?q=coding&sca_esv=576472481&tbm=isch&sxsrf=AM9HkKkigTgd17PM1icjYxPKkbm2XXi8nQ:1698232353118&source=lnms&sa=X&ved=2ahUKEwjf6ZzBiJGCAxVr_7sIHVuHBQ4Q_AUoAXoECAEQAw&biw=1536&bih=726&dpr=1.25#imgrc=nrd6sJQU_B2NDM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milospetrovic-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="milospetrovic-programmer" /> </p>
 
