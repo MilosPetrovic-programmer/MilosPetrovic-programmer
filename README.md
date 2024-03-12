@@ -1,4 +1,5 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGB-4OAoO8KSqH_huDPFw.gif)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65f03d9dfa39e177086375f9?variant=dark)](https://roadmap.sh)
 <h1 align="center">Hi 👋, I'm Milos</h1>
 <h3 align="center">A passionate programmer from Serbia</h3>
 
