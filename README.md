@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milospetrovic-programmer&" alt="milospetrovic-programmer" /></p>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65f03d9dfa39e177086375f9?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65f03d9dfa39e177086375f9?variant=dark" alt="roadmap.sh"/></a>
